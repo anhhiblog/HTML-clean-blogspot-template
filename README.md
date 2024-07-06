@@ -17,4 +17,4 @@ Khi bạn cài đặt template Blogspot mới nhưng lại không hiển thị n
 </html>
 Sau khi cập nhật đoạn code trên, bạn hãy tải lại trang chủ, khi đó sẽ thấy blog là một trang trắng và không hiển thị nội dung.
 Như vậy là cơ bản đã xóa sạch dữ liệu widget còn sót lại từ template cũ. Đến đây, các bạn đã có thể yên tâm để cài đặt template mới mà không lo sợ gặp phải các lỗi không mong muốn.
-Các bạn có thể tham khảo thêm bài viết này từ blogger aHí tại (https://www.anhhiblog.net/2024/03/huong-dan-cai-dat-template-blogspot-cho-nguoi-moi.html)
+Các bạn có thể tham khảo thêm bài viết này từ blogger aHí tại https://www.anhhiblog.net/2024/03/huong-dan-cai-dat-template-blogspot-cho-nguoi-moi.html
